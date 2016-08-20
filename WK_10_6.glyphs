@@ -2,7 +2,8 @@
 .appVersion = "895";
 DisplayStrings = (
 "abcdefghijklmnopqrstuvwxyz /aogonek/sacute/zdotaccent/zacute/cacute/nacute/lslash \U00F3/eogonek  ABCDEFGHIJKLMNOPQRSTUVWXYZ /Aogonek/Sacute/Zdotaccent/Zacute/Cacute/Nacute/Lslash \U00D3/Eogonek/ogonek p/aogonek e/eogonek u/uogonek A/Aogonek E/Eogonek U/Uogonek U\0121234567890 */backslash :,!#.?;//_  /emdash  /endash  -    \012Wcaeyfinding\012Woda",
-"ncanacbcdefaghijklmnopqrstuvwxyz /aogonek/sacute/zdotaccent/zacute/cacute/nacute/lslash \U00F3/eogonek  ABCDEFGHIJKLMNOPQRSTUVWWXYZ /Aogonek/Sacute/Zdotaccent/Zacute Cc/Cacute Ss/Nacute/Lslash \U00D3/ogonek/Eogonek/eogonek \0121234567890 x*l/backslash p.:,li!#H.c!?,;//_p {pl}[pl](cdl) /emdash  /endash  - \U00ABneajen\U00BB /guilsinglleft neue/guilsinglright ,,/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase ,l'\"\U00A2S$C/euro/franc FE /endash ~n.\U00F7=z><u/mu l/minus \U00D70%Oo+ |a@cS3H&aceR8\U00A9cCl\U00AER/published PS\U00A7s/trademark C1235628O\U00B0l*/dagger n/servicemark"
+"ncanacbcdefaghijklmnopqrstuvwxyz /aogonek/sacute/zdotaccent/zacute/cacute/nacute/lslash \U00F3/eogonek  ABCDEFGHIJKLMNOPQRSTUVWWXYZ /Aogonek/Sacute/Zdotaccent/Zacute Cc/Cacute Ss/Nacute/Lslash \U00D3/ogonek/Eogonek/eogonek \0121234567890 x*l/backslash p.:,li!#H.c!?,;//_p {pl}[pl](cdl) /emdash  /endash  - \U00ABneajen\U00BB /guilsinglleft neue/guilsinglright ,,/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase ,l'\"\U00A2S$C/euro/franc FE /endash ~n.\U00F7=z><u/mu l/minus \U00D70%Oo+ |a@cS3H&aceR8\U00A9cCl\U00AER/published PS\U00A7s/trademark C1235628O\U00B0l*/dagger n/servicemark",
+"dd "
 );
 classes = (
 {
@@ -26586,7 +26587,7 @@ unicode = 0107;
 },
 {
 glyphname = d;
-lastChange = "2016-08-17 22:39:47 +0000";
+lastChange = "2016-08-20 10:38:16 +0000";
 layers = (
 {
 background = {
